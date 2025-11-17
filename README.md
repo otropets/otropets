@@ -1,7 +1,8 @@
-## Hi there 👋
+## 👋 Hi there, I'm Olek
 
-I'm Olek, currently studying Applied Computer Science in Lodz University of Technology. 
-Passionate about software engineering, problem-solving, and building practical solutions. Outside of technology, I enjoy staying active and spending my free time doing sports
+I am studying Applied Computer Science at the Lodz University of Technology. 
+Passionate about software engineering, problem-solving, and building practical solutions. 
+Outside of technology, I enjoy staying active and spending my free time doing sports
 <!--
 **otropets/otropets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
